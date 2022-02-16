@@ -1,0 +1,114 @@
+*{
+    padding: 3px;
+    margin: auto;
+}
+
+#main {
+    background-color: rgb(171 230 75);
+    width: 600px;
+    height: 692px;
+    background-position: center;
+    border: 2px solid green;
+}
+
+.container {
+    border: 2px solid red;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+.name {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pass {
+    margin-left: 166px;
+    margin-top: 9px;
+}
+
+.mail {
+    margin-left: 167px;
+    margin-top: 9px;
+}
+
+.gen {
+    margin-left: 179px;
+    margin-top: 9px;
+}
+
+.a {
+margin-left: 10px;
+}
+
+.b {
+    margin-left: 10px;
+}
+
+.tel {
+    margin-left: 170px;
+    margin-top: 9px;
+}
+
+h2{
+    text-align: center;
+    color: red;
+    margin-top: 12px;
+}
+
+.degree {
+    margin-left: 183px;
+    margin-top: 9px;
+}
+
+.ht {
+    margin-left: 150px;
+    margin-top: 9px;
+}
+
+.hb {
+    margin-left: 175px;
+    margin-top: 9px;
+}
+
+.c {
+    margin-left: 13px;
+}
+
+#degree {
+    width: 141px;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    margin-top: 12px;
+}
+
+.add {
+    margin-left: 132px;
+    width: 319px;
+    height: 123px;
+    margin-top: 9px;
+}
+
+.Resu {
+    margin-left: 5px;
+    margin-top: -25px;
+}
+
+.att {
+    margin-left: 154px;
+    margin-top: 9px;
+}
+
+.sub {
+    margin-left: 260px;
+    width: 88px;
+    margin-top: 15px;
+    background-color: limegreen;
+    color: white;
+}
